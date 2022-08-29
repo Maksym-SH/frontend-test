@@ -1,5 +1,3 @@
-# trello-imitation
-
 ## Project setup
 ```
 npm install
